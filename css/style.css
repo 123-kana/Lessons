@@ -1,0 +1,30 @@
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.carousel {
+    height: 50%;
+}
+.carousel-inner {
+    height: 350px;
+}
+.carousel-item {
+    height: 100%;
+}
+/*.carousel .carousel-inner .carousel-item,*/
+/*.carousel .carousel-inner .active{*/
+/*}*/
+
+@media (max-width: 776px) {
+    .carousel{
+        height: 100%;
+    }
+}
+.page-footer{
+    background-color: #929fba;
+}
+.card {
+    margin-bottom: 20px;
+}
